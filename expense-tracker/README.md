@@ -29,6 +29,10 @@ I wanted to get comfortable with:
 4 Run:
    java ExpenseTracker
 
+
 # Notes
 
-This is a beginner-level project and part of my backend development learning journey. I'll keep improving it as I learn more.
+This is a beginner-level project and part of my backend development learning journey. I plan to improve it as I learn more.
+
+This project was inspired by the Roadmap.sh beginner Java projects:
+https://roadmap.sh/projects/expense-tracker
